@@ -1,38 +1,39 @@
 # basic_algorithms_01
 Reversals, FizzBuzz, MaxChar, ...
 
-Challenge 1: Reverse a given string
+<b>Challenge 1</b>: Reverse a given string
+<ul>
+  <li>Input: "hello"</li>
+  <li>Output: "olleh"</li>
+</ul>
 
-Input: "hello"
+<b>Challenge 2</b>: Validate a palidrome
+<ul>
+  <li>Input: "racecar"</li>
+  <li>Output: true</li>
+</ul>
 
-Output: "olleh"
+<b>Challenge 3</b>: Reverse an integer
+<ul>
+  <li>Input: -123</li>
+  <li>Output: -321</li>
+</ul>
 
-Challenge 2: Validate a palidrome
+<b>Challenge 4</b>: Capitalized letters
+<ul>
+  <li>Input: "i love you"</li>
+  <li>Output: "I Love You"</li>
+</ul>
 
-Input: "racecar"
+<b>Challenge 5</b>: Max character
+<ul>
+  <li>Input: "javascript"</li>
+  <li>Output: "a"</li>
+</ul>
 
-Output: true
-
-Challenge 3: Reverse an integer
-
-Input: -123
-
-Output: -321
-
-Challenge 4: Capitalized letters
-
-Input: "i love you"
-
-Output: "I Love You"
-
-Challenge 5: Max character
-
-Input: "javascript"
-
-Output: "a"
-
-Challenge 6: FizzBuzz
-
-Input: 1-100
-
-Output: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, 10, 11, Fizz, 13, 14, FizzBuzz, ...
+<b>Challenge 6</b>: FizzBuzz
+<ul>
+  <li>Input: 1-100</li>
+<li>Output: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, 10, 11, Fizz, 13, 14, FizzBuzz, ...
+</li>
+</ul>
